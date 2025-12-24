@@ -2,7 +2,7 @@
 
 ## 📌 Project Description
 
-This repository contains a **comprehensive Power BI dashboard** that explores Telangana’s weather patterns from **2019–2022** using real historical data.
+This repository contains a **comprehensive Power BI dashboard** that explores Telangana’s weather patterns from **2021–2024** using real historical data.
 
 Instead of just creating charts, this project turns data into a **story — one that helps you *understand climate trends*** and **draw meaningful insights** across the state.
 
