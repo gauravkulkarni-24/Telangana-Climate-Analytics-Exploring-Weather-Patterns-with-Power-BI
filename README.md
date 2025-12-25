@@ -64,21 +64,29 @@ It includes:
 - Identify districts with highest rainfall  
 - Seasonal & yearly rainfall trends  
 - Compare mandal-level rainfall patterns
+<img width="634" height="332" alt="Rainfall Analysis" src="https://github.com/user-attachments/assets/69691b1a-c98f-4458-a31a-ca452c92e3ec" />
+
 
 ### 🌡️ **Temperature Insights**
 - Seasonal temperature shifts  
 - District-wise temperature comparisons  
 - Max/Min temperature trends over time
+<img width="632" height="334" alt="Temp Analysis" src="https://github.com/user-attachments/assets/a632c31d-f304-4a06-8d1c-cb8df4bced12" />
+
 
 ### 💧 **Humidity Patterns**
 - Patterns in humidity across months and seasons  
 - Which periods feel more humid and why  
 - District-level humidity comparisons
+<img width="632" height="332" alt="Humidity Analysis" src="https://github.com/user-attachments/assets/f7613741-307d-4aaf-a46b-94ce1c8f45fb" />
+
 
 ### 🌬️ **Wind Speed Analysis**
 - Where and when wind speeds increase  
 - Seasonal wind behavior  
 - Wind speed range trends across districts
+<img width="631" height="332" alt="Wind Analysis" src="https://github.com/user-attachments/assets/4265f427-5be9-4a83-93d6-31a3d0bfdf2a" />
+
 
 ---
 
