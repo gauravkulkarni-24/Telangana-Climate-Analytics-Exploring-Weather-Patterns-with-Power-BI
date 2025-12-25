@@ -54,6 +54,12 @@ It includes:
 
 ## 📊 Dashboard Sections & Views
 
+### 🧭 **Bookmark-Based Navigation & Dashboard Flow**
+- To improve usability and guide users through the dashboard, I implemented bookmark-driven navigation in Power BI.
+- Each bookmark represents a focused analytical view, allowing users to switch between insights seamlessly without clutter.
+<img width="633" height="334" alt="Bookmark" src="https://github.com/user-attachments/assets/c71d2976-a672-48fb-98e5-457f6579b925" />
+
+
 ### 🌧️ **Rainfall Analysis**
 - Identify districts with highest rainfall  
 - Seasonal & yearly rainfall trends  
